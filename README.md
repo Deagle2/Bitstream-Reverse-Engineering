@@ -4,7 +4,6 @@
 - Black-box analysis and hardware-verified patching of the fuse map used by Renesas' GoConfig Software Hub to program the SLG47910 (Shrike Lite board, 1K-LUT Forge FPGA)
 - Hardware verified using Vicharak Shrike Lite dev board
 - No datasheet register map was used. The LUT truth-table field was located purely by differential analysis across known bitstreams, then confirmed by manually patching a bitstream to implement a different logic function and verifying correct behavior on the FPGA.
-- Built 8 modules identical in every aspect except for the fucntion it implements.
 
 # Result (TLDR ver.)
 
