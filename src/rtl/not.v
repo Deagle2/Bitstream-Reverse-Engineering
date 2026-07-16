@@ -6,5 +6,5 @@
 );
   
   assign led_oe = 1'b1;
-  assign led = a; // buffer
+  assign led = ~a; // not
 endmodule
