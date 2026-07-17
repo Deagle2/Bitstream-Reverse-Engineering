@@ -91,4 +91,4 @@ everything else is noise (such as routing artifacts or unrelated PnR states).
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
  
-### Note : im kinda a script kiddie :(
+### Author: A script kiddie :D
