@@ -5,7 +5,7 @@
 ## Quick Start (Pre-Built Bitstream)
 
 1. Connect your board via USB
-2. Upload `examples/bitstream/FPGA_MCU_bitstream_<NAME>.bin` using ShrikeFlash library
+2. Upload `examples/bitstream/baseline/FPGA_MCU_bitstream_<NAME>.bin` using ShrikeFlash library
 3. Expected result: Led goes HIGH/LOW depending on gate bitstream + python firmware stimulus (eg. AND gate bitstream:- LED HIGH when a=b=1)
 
 ## Build From Soure
